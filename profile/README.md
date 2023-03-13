@@ -12,3 +12,11 @@ THIS SITE IS UNDER CONSTRUCTION. CHECK BACK FOR DETAILS SOON ... 🚧
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Repos that are being forked for the CQA dashboard
+* react-basic
+* angular-basic
+* nextjs-starter
+* nuxtjs-starter
+* vanilla-basic
+* blazor-starter
