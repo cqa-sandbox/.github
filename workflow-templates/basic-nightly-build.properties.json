@@ -1,0 +1,13 @@
+{
+    "name": "CQA Nightly Builds",
+    "description": "CQA Organization CI starter workflow.",
+    "iconName": "smiley",
+    "categories": [
+        "Javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
