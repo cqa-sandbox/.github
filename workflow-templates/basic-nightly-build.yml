@@ -8,6 +8,10 @@ on:
     branches: [ $default-branch ]
   pull_request:
     branches: [ $default-branch ]
+  schedule:
+    - cron: '30 5 * * 0,6'
+    
+  workflow_call:  # enabled as a resuable workflow
 
 jobs:
   build:
