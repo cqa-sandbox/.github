@@ -1,7 +1,7 @@
 {
-    "name": "CQA Nightly Builds",
+    "name": "CQA Organization Nightly Build",
     "description": "CQA Organization CI starter workflow.",
-    "iconName": "smiley",
+    "iconName": "beaker",
     "categories": [
         "Javascript"
     ],
