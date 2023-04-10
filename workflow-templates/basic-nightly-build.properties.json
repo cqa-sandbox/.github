@@ -3,7 +3,18 @@
     "description": "CQA Organization CI starter workflow.",
     "iconName": "beaker",
     "categories": [
-        "Javascript"
+        "Continuous integration", 
+        "JavaScript", 
+        "npm", 
+        "React", 
+        "Angular", 
+        "Vue",
+        "Next",
+        "Gatsby",
+        "Nuxt",
+        "Svelte",
+        "Astro",
+        "Azure Functions"        
     ],
     "filePatterns": [
         "package.json$",
